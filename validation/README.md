@@ -40,19 +40,19 @@ ___
 The Validation SubDAO will follow a structured internal election process to select subdao members and ensure a fair and transparent representation of the community. The following guidelines are to be followed:
 
 **Nomination Process:**
-subDAO members have the opportunity to nominate others for a subDAO membership. Nominations can be submitted through a designated channel or platform specified by the subDAO.
+SubDAO members have the opportunity to nominate others for a subdao membership. Nominations can be submitted through a designated channel or platform specified by the subdao.
 **Election Period:**
-The election period is set by the on-chain voting mechanism for the validation subDAO. This can be changed by a proposal from a subDAO member.
+The election period is set by the on-chain voting mechanism for the validation subDAO. This can be changed by a proposal from a subdao member.
 
 **Voting Mechanism:**
-The subDAO currently used DAO-DAO for its voting mechanisms, however at any time the subDAO may choose to define alternate or additional voting mechanisms, which may include options such as community-wide voting, committee member voting, or a combination of both. The mechanism will ensure fair representation and equal opportunity fo rcommunity members to participate in the election process
+The SubDAO currently used DAO-DAO for its voting mechanisms, however at any time the subdao may choose to define alternate or additional voting mechanisms, which may include options such as community-wide voting, committee member voting, or a combination of both. The mechanism will ensure fair representation and equal opportunity fo rcommunity members to participate in the election process
 
 **Resignation Protocol:** 
-In the event that a subDAO member resigns or is unable to fulfill their duties, the committee will follow a predefined protocol to address the vacancy. This may involve the initiation of a by-election or appointment process to fill the vacant position, ensuring the continuity of the subDAO's operations.
+In the event that a subdao member resigns or is unable to fulfill their duties, the committee will follow a predefined protocol to address the vacancy. This may involve the initiation of a by-election or appointment process to fill the vacant position, ensuring the continuity of the subdao's operations.
 
 ## Responsibilities & Duties
 ___
-The Validation subDAO will have the following key responsibilities and duties in relation to serving & uplifting the official validators for the Terp Network:
+The Validation SubDAO will have the following key responsibilities and duties in relation to serving & uplifting the official validators for the Terp Network:
 
 **Temperature Checks of Test Network & Upgrade Decisions & Resources:**
 
@@ -117,7 +117,7 @@ ___
 ## Charter Amendments
 ___
 
-It is recognizable that over time, amendments to the subDAO charter may be nessesary to adapt to the evolving needs of the Terp Network community. The followin gprocess wil be followed for charter amendments:
+It is recognizable that over time, amendments to the subdao charter may be nessesary to adapt to the evolving needs of the Terp Network community. The followin gprocess wil be followed for charter amendments:
 
 **Proposal & Ratification**
 
