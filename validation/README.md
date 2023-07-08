@@ -16,11 +16,11 @@ Note: These guidelines are not implemented, and are to be validated by the vote 
 
 ## SubDAO Name & Purpose:
 
-The Validation SubDAO is dedicated to protect, improve, and serve the Terp network and community with neutrality on general & emerency consensus on network node operations.
+The Validation SubDAO is dedicated to protect, improve, and serve the Terp network and community with neutrality on general & emerency consensus with network node operations.
 
 ## SubDAO Membership:
 
-Member accounts can be found here: [DAO-DAO Link](https://daodao.zone/dao/juno1wpq03vzv4f9fczss0sqt4xxfmxel6zmhdxal68lg8qpa7cgzj25sy3k3dt/members)
+Member accounts can be found here: [DAO-DAO link.](https://daodao.zone/dao/juno1wpq03vzv4f9fczss0sqt4xxfmxel6zmhdxal68lg8qpa7cgzj25sy3k3dt/members)
 
 Include the names of the subdao members, their roles or positions, and any additional information that helps identify each member's expertise or contribution to the subdao.
 
@@ -41,11 +41,12 @@ The Validation SubDAO will follow a structured internal election process to sele
 
 **Nomination Process:**
 SubDAO members have the opportunity to nominate others for a subdao membership. Nominations can be submitted through a designated channel or platform specified by the subdao.
+
 **Election Period:**
 The election period is set by the on-chain voting mechanism for the validation subDAO. This can be changed by a proposal from a subdao member.
 
 **Voting Mechanism:**
-The SubDAO currently used DAO-DAO for its voting mechanisms, however at any time the subdao may choose to define alternate or additional voting mechanisms, which may include options such as community-wide voting, subdao member voting, or a combination of both. The mechanism will ensure fair representation and equal opportunity fo rcommunity members to participate in the election process
+The SubDAO currently used DAO-DAO for its voting mechanisms, however at any time the subdao may choose to define alternate or additional voting mechanisms, which may include options such as community-wide voting, subdao member voting, or a combination of both. The mechanism will ensure fair representation and equal opportunity fo rcommunity members to participate in the election process.
 
 **Resignation Protocol:** In the event that a subdao member resigns or is unable to fulfill their duties, the subdao will follow a predefined protocol to address the vacancy. This may involve the initiation of a by-election or appointment process to fill the vacant position, ensuring the continuity of the subdao's operations.
 
