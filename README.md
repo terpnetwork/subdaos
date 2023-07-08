@@ -1,11 +1,6 @@
 # Community
 Welcome to the Terp Network community!
 
-This is the starting point for joining and contributing to building Terp Network - committing code, writing docs, testing product features & reporting bugs, organizing meetups, suggesting ideas for new features, and more.
-
-## Getting Started
-
-
 SubDaos are the sub-units of how Terp DAO advances its purpose. A subDao is a group of people actively working on tasks that align with Terp Networks Constitutional Values and community run initiatives. As such, ratifying subdaos sets boundaries on what is and isn't in scope for Terp Network DAO's governance.
 
 ## SubDAO Formation Process
