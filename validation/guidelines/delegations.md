@@ -56,6 +56,9 @@ If a Validator has received a delegation and is found to no longer meet the mini
 - **Exchange validators:** The validator must not be owned and/or operated by a centralized exchange.
 - **Governance participation** The validator must have voted on **80%** or more of governance proposals that enter the voting phase during the epoch.
 - **Uptime**  The validator uptime during the previous epoch must be 95% or greater. Uptime is determined by counting the number of blocks recorded on-chain that are signed by the validator.
+
+$$Uptime = {\frac{no.\ signed\ blocks}{no.\ blocks\ in\ epoch}*100}$$
+
 - **Downtime slashing** The validator must not be slashed for downtime more than once during the previous epoch.
 - **Doublesign slashing** A validator that has double-signed will not be considered for the program. If part of special circumstances (e.g. the Project Team had given wrong instructions) exceptions for a hard slash can be made.
 - **Multiple validators** One delegation per entity is allowed. Therefore, the term validator in this document also refers to the respective organization/brand/individual or otherwise, and not only to the specific on-chain validator.
@@ -81,17 +84,38 @@ The score awarded is determined by the SubDAO.
 ### Relayer Operations (Max. 2000 points)
 Awarded for relayer operations during the previous epoch.
 
+| Network | Channel |
+| --- | --- |
+| Cosmos   |  |
+| Osmosis  |  |
+| Evmos    |  |
+| Stargaze |  |
+| Omniflix |  |
+| Kujira   |  |
+| Axelar   |  |
+| Secret   |  |
+| Juno     |  |
+
+
 The score awarded is calculated as a percentage of successful relay transactions vs the total successful transactions over the previous epoch period.
+
+$$score = \frac {applicant\ transactions}{total\ transactions}*30,000 , max\ 2,000$$
+
 
 ### Mainnet Public Archive Node (Max. 1500 points)
 
 Points are awarded for the node uptime during the previous epoch. The maximum points are awarded for 100% uptime and the score is scaled linearly down to 85%. If the node uptime is less than 85%, no points are awarded.
+
+$$points = (1-\frac{\frac {100 - uptime}{100}}{0.15})*1500$$
 
 Operators must submit the archive node address to the SubDAO when the node is brought online such that it can be monitored for consideration in the next round.
 
 ### Mainnet Public RPC/API/Websocket Node (Max. 1000 points)
 
 Points are awarded for the node uptime during the previous epoch. The maximum points are awarded for 100% uptime and the score is scaled linearly down to 85%. If the node uptime is less than 85%, no points are awarded.
+
+$$points = (1-\frac{\frac {100 - uptime}{100}}{0.15})*1000$$
+
 
 The RPC/API node will be added to the Terp Network public proxy.
 
@@ -106,6 +130,9 @@ Uptime is determined by counting the number of blocks recorded on-chain that are
 ### Testnet Public RPC/API/Websocket Node (Max. 1000 points)
 
 Points are awarded for the node uptime during the previous epoch. The maximum points are awarded for 100% uptime and the score is scaled linearly down to 85%. If the node uptime is less than 85%, no points are awarded.
+
+$$points = (1-\frac{\frac {100 - uptime}{100}}{0.15})*1000$$
+
 
 ## Non-technical Criteria
 
